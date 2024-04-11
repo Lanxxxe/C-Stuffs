@@ -1,3 +1,2 @@
-C_Stuffs
-
-This respository consist of different C Files that I do during free time and activities from school. 
+### Content
+The repository contains different programs in C Language. 
